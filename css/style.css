@@ -1,0 +1,69 @@
+#body{
+    width: 100%;
+}
+
+table{
+    width: 40% !important;
+    color: white !important;
+    background-color: rgba(0,0,0,0.3);
+}
+td{
+    width: 5%;
+}
+tr{
+    transition: 0.1s;
+}
+tr:hover{
+    background-color: rgba(0,0,0,0.8);
+}
+
+#italy{
+    background: url(../image/1.jpg) no-repeat center center/cover;
+}
+#japan{
+    background: url(../image/2.jpg) no-repeat center center/cover;
+}
+#switzerland{
+    background: url(../image/3.jpg) no-repeat center center/cover;
+}
+#hungary{
+    background: url(../image/4.jpg) no-repeat center center/cover;
+}
+#romania{
+    background: url(../image/5.jpg) no-repeat center center/cover;
+}
+#france{
+    background: url(../image/6.jpg) no-repeat center center/cover;
+}
+#afghanistan{
+    background: url(../image/7.jpg) no-repeat center center/cover;
+}
+#india{
+    background: url(../image/8.jpg) no-repeat center center/cover;
+}
+#brazilia{
+    background: url(../image/9.jpg) no-repeat center center/cover;
+}
+#canada{
+    background: url(../image/10.jpg) no-repeat center center/cover;
+}
+#argentina{
+    background: url(../image/11.jpg) no-repeat center center/cover;
+}
+#kolumbia{
+    background: url(../image/12.jpg) no-repeat center center/cover;
+}
+#england{
+    background: url(../image/13.jpg) no-repeat center center/cover;
+}
+#mexico{
+    background: url(../image/14.jpg) no-repeat center center/cover;
+}
+.bg{
+	
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
